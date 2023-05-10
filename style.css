@@ -1,0 +1,80 @@
+body{
+    background-color: black;
+}   margin-bottom: 13%;
+.hero{
+    display: flex;
+
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 500;
+    flex-wrap: wrap;
+}
+nav{
+    display: flex;
+    margin-left: 92%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* margin-left: 39%; */
+    margin: 20px 20px;
+    /* align-items: center; */
+    color:white
+}
+nav ul li{
+    margin: 10px 20px;
+    display: inline-block;
+    justify-content: space-between;
+    color: white;
+
+}
+nav ul li a{
+    font-size: 18px;
+    /* margin-left: 12%; */
+    /* display: flex; */
+    position: relative;
+    justify-content: space-between;
+    text-decoration: none;
+    color: white;
+   
+}
+.nav{
+    margin-left: 600px;
+}
+.header{
+    /* text-align: center; */
+    font-size: 50px;
+    display: flex;
+    gap: 2rem;
+    color:white
+
+}
+.name{
+    color:red;
+}
+.image{
+    width: 400px;
+    margin-top: -42%;
+    height: 500px;
+}
+.about{
+    font-size: 18px;
+    /* margin-top: -1%; */
+    margin-top: 32%;
+    margin-left: -80%;
+}
+#h1{
+    font-size: 28px;
+}
+#text{
+    font-size: 40px;
+    margin-top: 3%;
+}
+#myimage{
+    width: 290px;
+    margin-left: 124%;
+    margin-top: -27%;
+    /* margin-bottom: -10%; */
+    /* height: 350px; */
+}
